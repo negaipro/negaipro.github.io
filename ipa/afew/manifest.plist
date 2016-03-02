@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://192.168.0.83/ipa/afew/afew.ipa</string>
+					<string>https://negaipro.github.io/ipa/afew/afew.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://192.168.0.83/ipa/afew/57.png</string>
+					<string>https://negaipro.github.io/ipa/afew/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://192.168.0.83/ipa/afew/512.png</string>
+					<string>https://negaipro.github.io/ipa/afew/512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
